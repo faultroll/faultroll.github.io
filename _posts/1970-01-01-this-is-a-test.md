@@ -1,4 +1,4 @@
 ﻿
 # This is a test
 
-![](_images/shadow-s-light.jpg)
+![](/_images/shadow-s-light.jpg)
